@@ -13,7 +13,7 @@
 
 [24.12.09](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-09.md) docker
 
-[24.12.07~12.08](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-07~2024-12-08.md) 주말 문제풀이
+[24.12.07~12.08](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-07~12-08.md) 주말 문제풀이
 
 
 ### [12월 첫째주, 7주차]
@@ -28,7 +28,7 @@
 
 [24.12.02](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-02.md) FE event-fetch 코드 작성
 
-[24.11.30~12.01](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-11-30~2024-12-01.md) 주말 문제풀이
+[24.11.30~12.01](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-11-30~12-01.md) 주말 문제풀이
 
 
 ##
@@ -51,7 +51,7 @@
 
 ### [11월 셋째주, 5주차]
 
-[24.11.23~11.24](https://github.com/100-hours-a-week/june-til/blob/main/Nov/2024-11-23_24.md) 주말 문제풀이
+[24.11.23~11.24](https://github.com/100-hours-a-week/june-til/blob/main/Nov/2024-11-23~24.md) 주말 문제풀이
 
 [24.11.22](https://github.com/100-hours-a-week/june-til/blob/main/Nov/2024-11-22.md) 리눅스, CI, CD
 
