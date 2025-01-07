@@ -2,7 +2,7 @@
 
 ### [12월 셋째주, 9주차]
 
-[24.12.21~12.22](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-21.md) 문제풀이
+[24.12.21~12.22](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-21~12-22.md) 문제풀이
 
 [24.12.20](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-20.md) 문제풀이
 
