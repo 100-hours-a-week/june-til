@@ -1,5 +1,21 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [12월 셋째주, 9주차]
+
+[24.12.21](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-21.md) docker2
+
+[24.12.20](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-20.md) 추후작성
+
+[24.12.19](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-19.md) 딥다이브 - 
+
+[24.12.18](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-18.md) git 파일정리 및 병합
+
+[24.12.17](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-17.md) docker
+
+[24.12.15~12.16](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-15~12-16.md) 주말 문제풀이
+
+
+##
 
 ### [12월 둘째주, 8주차]
 
