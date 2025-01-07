@@ -2,17 +2,19 @@
 
 ### [12월 셋째주, 9주차]
 
-[24.12.21](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-21.md) docker2
+[24.12.21~12.22](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-21.md) 문제풀이
 
-[24.12.20](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-20.md) 추후작성
+[24.12.20](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-20.md) 문제풀이
 
-[24.12.19](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-19.md) 딥다이브 - 
+[24.12.19](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-19.md) 딥다이브 - 팀원 QA
 
 [24.12.18](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-18.md) git 파일정리 및 병합
 
-[24.12.17](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-17.md) docker
+[24.12.17](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-17.md) docker swarm실습 및 k8s
 
-[24.12.15~12.16](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-15~12-16.md) 주말 문제풀이
+[24.12.16](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-16.md) 프론트 json파일 fetch로 연동 후 로딩 초기 게시글로 나오도록 연동
+
+[24.12.14~12.15](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-14~12-15.md) 주말 문제풀이
 
 
 ##
@@ -23,7 +25,7 @@
 
 [24.12.12](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-12.md) 추후작성
 
-[24.12.11](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-11.md) 딥다이브 - 
+[24.12.11](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-11.md) 딥다이브 - 딥다이브 - docker-compose 와 리소스제한, non-root유저를 활용한 권한최소화
 
 [24.12.10](https://github.com/100-hours-a-week/june-til/blob/main/Dec/2024-12-10.md) git 파일정리 및 병합
 
